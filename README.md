@@ -7,3 +7,10 @@ This system will monitor real-time water usage directly from the shower head (se
 
 ![image](https://github.com/marjyang/techin514-final/blob/main/images/General%20sketch.png)
 
+## The "sensor" device
+
+
+## The "display" device
+
+
+## System Architecture
