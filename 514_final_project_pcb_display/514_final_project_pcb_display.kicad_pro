@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "514_final_project_pcb.kicad_pro",
+    "filename": "514_final_project_pcb_display.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -505,6 +505,14 @@
       {
         "netclass": "Power",
         "pattern": "/3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(Brd1-VCC)"
       }
     ]
   },
@@ -513,7 +521,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../PCB Run Sensing/",
+      "plot": "../../PCB Run Display/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

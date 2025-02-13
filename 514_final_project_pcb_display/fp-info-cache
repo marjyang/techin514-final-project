@@ -1,4 +1,4 @@
-24682188701763381
+24698022081840528
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91048,6 +91048,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SSD1306 128x64
+128x64OLED
+
+
+0
+4
+4
 Seeed Studio XIAO Series Library
 XIAO-Add-On
 
@@ -99483,3 +99490,66 @@ Varistor VF
 0
 2
 2
+stepper motor x27.168
+DLG-0403-220
+Capacitor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+stepper motor x27.168
+ILI9341 FFC
+
+
+0
+18
+18
+stepper motor x27.168
+ILI9341FFC
+
+
+0
+19
+19
+stepper motor x27.168
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+stepper motor x27.168
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+stepper motor x27.168
+TACTM-613N-F
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf
+
+0
+4
+2
+stepper motor x27.168
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+stepper motor x27.168
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
+0
+1
+1
+stepper motor x27.168
+X27-168
+
+
+0
+6
+4
